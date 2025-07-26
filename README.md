@@ -18,7 +18,7 @@
 - llms-4为langchain是官方给出的**💡RAG项目💡**例子，这里会包含最基础的RAG项目的流程，保证你立马就能run起来，并且代码结构很简单。
 
 ## llms-1
-### 视频地址：
+### 视频地址（看整个系列）：
 - https://www.bilibili.com/video/BV1qC4y1F7Dy
 ### 代码：
 - 🌹代码地址（可运行版）：https://github.com/lichuachua/llms-project/tree/main/LangChain_RAG/llms-1/
@@ -27,7 +27,7 @@
 - 代码原址：https://github.com/blackinkkkxi/RAG_langchain/tree/main   
 - 运行平台：除了langchain_hf，都可以在Colab运行；Kaggle都可以运行，Kaggle入门参考：[白嫖免费算力，量小但管够——Kaggle](https://mp.weixin.qq.com/s/SK5VXzx2zijzjc8OYJICKA)；
 ## llms-2
-### 视频地址：
+### 视频地址（看单篇既可）：
 - https://www.bilibili.com/video/BV1Cp421R7Y7
 ### 代码：
 - 🌹代码地址（可运行版）：https://github.com/lichuachua/llms-project/tree/main/LangChain_RAG/llms-2/
@@ -36,7 +36,7 @@
 - 代码原址：https://github.com/owenliang/rag-retrieval/tree/main  
 - 运行平台：Kaggle运行，Kaggle入门参考：[白嫖免费算力，量小但管够——Kaggle](https://mp.weixin.qq.com/s/SK5VXzx2zijzjc8OYJICKA)；
 ## llms-3
-### 视频地址：
+### 视频地址（看整个系列）：
 - 外网原视频（英文）：https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x
 - 国内中文版：https://www.bilibili.com/video/BV1dm41127jc/
 ### 代码：
