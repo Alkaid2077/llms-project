@@ -1,0 +1,35 @@
+# 基础数值 & 数据处理
+numpy==1.26.4
+pandas==2.2.2
+pyarrow==12.0.1
+scipy==1.15.3
+
+# 数据集 & 模型管理
+datasets==2.18.0
+modelscope==1.15.0
+transformers==4.36.2
+huggingface-hub==0.35.3
+
+# 向量检索 & Embedding
+faiss-cpu==1.12.0
+tiktoken==0.12.0
+
+# LangChain 生态
+langchain==1.0.2
+langchain-community==0.4
+langchain-text-splitters==1.0.0
+
+# 文档处理
+pypdf==6.1.2
+rapidocr-onnxruntime==1.4.4
+
+#如果要跑深度模型推理
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+
+
+# 其他必要依赖
+addict==2.4.0
+chardet==5.2.0
+charset-normalizer==3.4.4
